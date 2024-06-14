@@ -8,6 +8,9 @@ namespace ConsoleAppGE2
 {
     public static class Function1
     {
+        static Player player = new Player();
+
+      
 
     }
 }
